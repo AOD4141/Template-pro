@@ -1,0 +1,49 @@
+* body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #007bff;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+}
+
+main {
+    padding: 20px;
+}
+
+.time-block {
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    background-color: #fff;
+}
+
+.past {
+    background-color: #e8e8e8;
+}
+
+.present {
+    background-color: #ffcccb;
+}
+
+.future {
+    background-color: #d7ffd9;
+}
+
+textarea {
+    width: 100%;
+    height: 60px;
+    resize: none;
+}
+
+button {
+    margin-top: 10px;
+} 
